@@ -8,6 +8,7 @@ class MicrocommerceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
